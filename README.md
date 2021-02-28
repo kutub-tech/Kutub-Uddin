@@ -10,4 +10,4 @@
 ## Education
 * **Master of Science, Feb. 2020**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
-  * Dissertation: Deep Learning-based HEVC Double Compression Detectio.
+  * Dissertation: Deep Learning-based HEVC Double Compression Detection.
