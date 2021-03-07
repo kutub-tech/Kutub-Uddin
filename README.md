@@ -11,3 +11,7 @@
 * **Master of Science, Feb. 2020**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
   * Dissertation: Deep Learning-based HEVC Double Compression Detection.
+
+* **Bachelor of Science, Feb. 2020**
+  * Department of Computer and Science Engineering, University of Chittagong, Bangladesh.
+  * Dissertation: Tomato Diseases Detection and Classificaiton.
