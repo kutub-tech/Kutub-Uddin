@@ -24,18 +24,18 @@
     
 ## Experience
 * **Image or Video Forensic, Anti-Forensic, and Counter Anti-Forensic**
-  *  Deep learnig-based HEVC double compresion detection
-  *  Deep learnig-based JPEG compression artifacts removal
-  *  Deep learnig-based counter anti-forensic in JPEG comressed domain
-  *  Deep learnig-based HEVC compression artifacts removal
-  *  Deep learnig-based counter anti-forensic in HEVC comressed domain
+  *  HEVC double compresion detection
+  *  JPEG compression artifacts removal
+  *  Counter anti-forensic in JPEG comressed domain
+  *  HEVC compression artifacts removal
+  *  Counter anti-forensic in HEVC comressed domain
 * **Human Activity Recognition**
-  *  Deep learning-based real-time hand gesture recognition using depth sequences
-  *  Deep learning-based hand gesture recognition with leap motion controller
-  *  Deep learnig-based human action recogniton depth, inertial, and skeleton sequences
+  *  Real-time hand gesture recognition using depth sequences
+  *  Hand gesture recognition with leap motion controller
+  *  Human action recogniton depth, inertial, and skeleton sequences
 * **Point Cloud Processing**
-  *  Deep learning-based point cloud classification and segmentation
-  *  Deep learnig-based point cloud upsampling and registration
+  *  Point cloud classification and segmentation
+  *  Point cloud upsampling and registration
   
 ## Publication
 ### International Journal
