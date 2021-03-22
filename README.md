@@ -29,3 +29,10 @@
   *  Deep learnig-based counter anti-forensic in JPEG comressed domain
   *  Deep learnig-based HEVC compression artifacts removal
   *  Deep learnig-based counter anti-forensic in HEVC comressed domain
+* **Human Activity Recognition**
+  *  Deep learning-based real-time hand gesture recognition using depth sequences
+  *  Deep learnig-based human action recogniton depth, inertial, and skeleton sequences
+* **Point Cloud Processing**
+  *  Deep learning-based point cloud classification and segmentation
+  *  Deep learnig-based point cloud upsampling and registration
+  
