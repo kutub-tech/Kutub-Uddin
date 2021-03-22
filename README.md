@@ -15,3 +15,11 @@
 * **Bachelor of Science, July. 2017**
   * Department of Computer Science and Engineering, University of Chittagong, Bangladesh.
   * Dissertation: Tomato Diseases Detection and Classificaiton.
+
+## Research
+
+    Image Processing & Computer Vision and Deep Learning
+        Image Restoration
+        Motion Estimation
+        Multiview Geometry
+        Video Codec
