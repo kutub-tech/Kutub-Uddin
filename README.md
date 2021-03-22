@@ -45,3 +45,13 @@
   * Uddin, K., Yang, Y. and Oh, B.T., 2019. **Deep Learning based HEVC Double Compression Detection**. Journal of Broadcast Engineering, Vol. 24(6), p.1134-1142.
 ### Domestic Conference
   * Uddin, K., Yang, Y. and Oh, B.T., 2019. **Anti-Forensic Against Double JPEG Compression Detection Using Adversarial Generative Network**. In Proceedings of the Korean Society of Broadcast Engineers Conference, p. 58-60, The Korean Institute of Broadcast and Media Engineers (KIBME).
+  * @article{uddin2019deep,
+  title={Deep Learning based HEVC Double Compression Detection},
+  author={Uddin, Kutub and Yang, Yoonmo and Oh, Byung Tae},
+  journal={Journal of Broadcast Engineering},
+  volume={24},
+  number={6},
+  pages={1134--1142},
+  year={2019},
+  publisher={The Korean Institute of Broadcast and Media Engineers}
+}
