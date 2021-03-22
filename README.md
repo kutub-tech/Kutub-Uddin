@@ -17,9 +17,9 @@
   * Dissertation: Tomato Diseases Detection and Classificaiton.
 
 ## Research
-
-    Image Processing & Computer Vision and Deep Learning
-        Image Restoration
-        Motion Estimation
-        Multiview Geometry
-        Video Codec
+* **Image Processing & Computer Vision and Deep Learning**
+  * Image Processing and Computer Vison
+  * Video Forensic, Anti-Forensic, and Counter Anti-Forensic
+  * Human Activity Recognition
+  * Point Cloud Processing
+    
