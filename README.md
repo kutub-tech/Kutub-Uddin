@@ -37,7 +37,7 @@
   *  Deep learnig-based point cloud upsampling and registration
   
 ## Publication
-# International Journal
-# International Conference
-# Domestic Journal
-# Domestic Conference
+### International Journal
+### International Conference
+### Domestic Journal
+### Domestic Conference
