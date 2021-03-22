@@ -23,5 +23,9 @@
   * Point Cloud Processing
     
 ## Experience
-* **Image or Video Forensic**
+* **Image or Video Forensic, Anti-Forensic, and Counter Anti-Forensic**
   *  Deep learnig-based HEVC double compresion detection
+  *  Deep learnig-based JPEG compression artifacts removal
+  *  Deep learnig-based counter anti-forensic in JPEG comressed domain
+  *  Deep learnig-based HEVC compression artifacts removal
+  *  Deep learnig-based counter anti-forensic in HEVC comressed domain
