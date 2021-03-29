@@ -41,9 +41,9 @@
 ### International Journal
   *  
 ### International Conference
-  * Uddin, K., Yang, Y. and Oh, B.T., 2021. **Analysis of generative adversarial network targeting anti-forensic in JPEG compressed domain**. In International Workshop on Advanced Imaging Technology (IWAIT), Vol. 11766, p. 1176634, International Society for Optics and Photonics. [[paper](https://doi.org/10.1117/12.2590959)]
+  * Uddin, K., Yang, Y. and Oh, B.T., 2021. **Analysis of Generative Adversarial Network Targeting Anti-Forensic in JPEG Compressed Domain**. In International Workshop on Advanced Imaging Technology (IWAIT), Vol. 11766, p. 1176634, International Society for Optics and Photonics. [[paper](https://doi.org/10.1117/12.2590959)]
 ### Domestic Journal
-  * Uddin, K., Yang, Y. and Oh, B.T., 2019. **Deep Learning based HEVC Double Compression Detection**. Journal of Broadcast Engineering, Vol. 24(6), p.1134-1142.[[paper](https://doi.org/10.5909/JBE.2019.24.6.1134)]
+  * Uddin, K., Yang, Y. and Oh, B.T., 2019. **Deep Learning-based HEVC Double Compression Detection**. Journal of Broadcast Engineering, Vol. 24(6), p.1134-1142.[[paper](https://doi.org/10.5909/JBE.2019.24.6.1134)]
 ### Domestic Conference
   * Uddin, K., Yang, Y. and Oh, B.T., 2019. **Anti-Forensic Against Double JPEG Compression Detection Using Generative Adversarial Network**. In Proceedings of the Korean Society of Broadcast Engineers Conference, p. 58-60, The Korean Institute of Broadcast and Media Engineers (KIBME).[[paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09301335)]
   
