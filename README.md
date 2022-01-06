@@ -33,8 +33,8 @@
   *  JPEG double compression detection,  JPEG compression artifacts removal, and counter anti-forensic in JPEG comressed domain.
   *  Filtering (Median and Gaussian) detection, filtering artifacts removal, and counter anti-forensic iun filtering domain.
 * **Human Activity Recognition**
-  *  Hand gesture recognition.
-  *  Human action recogniton depth, inertial, and skeleton sequences.
+  *  Hand gesture recognition using leap motion controller.
+  *  Human action recogniton using depth, inertial, and skeleton sequences.
 * **Point Cloud Processing**
   *  Point cloud classification, segmentation, upsampling, completion, and restoration.
   
