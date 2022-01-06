@@ -29,18 +29,14 @@
     
 ## Experience
 * **Image or Video Forensic, Anti-Forensic, and Counter Anti-Forensic**
-  *  HEVC double compresion detection
-  *  JPEG compression artifacts removal
-  *  Counter anti-forensic in JPEG comressed domain
-  *  HEVC compression artifacts removal
-  *  Counter anti-forensic in HEVC comressed domain
+  *  HEVC double compresion detection, HEVC compression artifacts removal, and counter anti-forensic in HEVC comressed domain.
+  *  JPEG double compression detection,  JPEG compression artifacts removal, and counter anti-forensic in JPEG comressed domain.
+  *  Filtering (Median and Gaussian) detection, filtering artifacts removal, and counter anti-forensic iun filtering domain.
 * **Human Activity Recognition**
-  *  Real-time hand gesture recognition using depth sequences
-  *  Hand gesture recognition with leap motion controller
-  *  Human action recogniton depth, inertial, and skeleton sequences
+  *  Hand gesture recognition.
+  *  Human action recogniton depth, inertial, and skeleton sequences.
 * **Point Cloud Processing**
-  *  Point cloud classification and segmentation
-  *  Point cloud upsampling and registration
+  *  Point cloud classification, segmentation, upsampling, completion, and restoration.
   
 ## Publication
 ### International Journal
