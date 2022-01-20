@@ -40,7 +40,7 @@
   
 ## Publication
 ### International Journal
-  *  
+  * **Uddin, K.**, Yang, Y. and Oh, B.T., 2022. **Analysis of Generative Adversarial Network Targeting Anti-Forensic in JPEG Compressed Domain**. Sensors, Vol. 22(3), p. 723. [[paper](https://doi.org/10.3390/s22030723)]
 ### International Conference
   * **Uddin, K.**, Yang, Y. and Oh, B.T., 2021. **Analysis of Generative Adversarial Network Targeting Anti-Forensic in JPEG Compressed Domain**. In International Workshop on Advanced Imaging Technology (IWAIT), Vol. 11766, p. 1176634, International Society for Optics and Photonics. [[paper](https://doi.org/10.1117/12.2590959)]
 ### Domestic Journal
