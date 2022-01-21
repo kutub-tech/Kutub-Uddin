@@ -34,7 +34,7 @@
   *  Filtering (Median and Gaussian) detection, filtering artifacts removal, and counter anti-forensic iun filtering domain.
 * **Human Activity Recognition**
   *  Hand gesture recognition using leap motion controller.
-  *  Human action recogniton using depth, inertial, and skeleton sequences.
+  *  Human action recogniton using RGB, depth, inertial, and skeleton sequences.
 * **Point Cloud Processing**
   *  Point cloud classification, segmentation, upsampling, completion, and restoration.
   
