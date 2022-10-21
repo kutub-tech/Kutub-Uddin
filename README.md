@@ -11,11 +11,11 @@
 
 * **Doctor of Philosophy, Feb. 2020 - Running**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
-  * Dissertation: Deep Learning-based Anti-Forensic and Counter Anti-Forensic of HEVC-Coded Video.
+  * Dissertation: Deep Learning-based Forensics, Anti-Forensics, and Counter Anti-Forensic of Digital Images and Videos.
   
 * **Master of Science, Feb. 2020**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
-  * Dissertation: Deep Learning-based HEVC Double Compression Detection.
+  * Dissertation: Deep Learning-based HEVC Double Compression Detection in HEVC-Coded Video with the Same Coding Parameters.
 
 * **Bachelor of Science, July. 2017**
   * Department of Computer Science and Engineering, University of Chittagong, Bangladesh.
