@@ -11,7 +11,7 @@
 
 * **Doctor of Philosophy, Feb. 2020 - Present**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
-  * Dissertation: Deep Learning-based Forgery Exposure for Defensing Adversarial Attacks in Digital Images.
+  * Dissertation: Deep Learning-based Artifacts Exposure for Defensing Adversarial Attacks in Digital Images.
   
 * **Master of Science, Feb. 2020**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
