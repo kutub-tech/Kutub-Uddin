@@ -11,7 +11,7 @@
 
 * **Doctor of Philosophy, Feb. 2020 - Present**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
-  * Dissertation: Deep Learning-based Forensics, Anti-Forensics, and Counter Anti-Forensic of Digital Images and Videos.
+  * Dissertation: Deep Learning-based Forgery Exposure for Defensing Adversarial Attacks in Digital Images.
   
 * **Master of Science, Feb. 2020**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
@@ -19,7 +19,7 @@
 
 * **Bachelor of Science, July. 2017**
   * Department of Computer Science and Engineering, University of Chittagong, Bangladesh.
-  * Dissertation: Tomato Diseases Detection and Classificaiton.
+  * Dissertation: A Machine Learning-based Approach for Tomato Diseases Detection and Classificaiton.
 
 ## Research
 * **Image Processing, Computer Vision, and Deep Learning**
