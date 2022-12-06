@@ -9,7 +9,7 @@
 
 ## Education
 
-* **Doctor of Philosophy, Feb. 2020 - Running**
+* **Doctor of Philosophy, Feb. 2020 - Present**
   * Department of Electronics and Information Engineering, Korea Aerospace University, Korea.
   * Dissertation: Deep Learning-based Forensics, Anti-Forensics, and Counter Anti-Forensic of Digital Images and Videos.
   
